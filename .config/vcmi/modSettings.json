@@ -1,0 +1,20 @@
+{
+	"activeMods" : {
+		"hungarian-translation" : {
+			"active" : true,
+			"checksum" : "b4fd4257",
+			"validated" : true
+		},
+		"vcmi" : {
+			"active" : true,
+			"checksum" : "34e68fd8",
+			"validated" : true
+		}
+	},
+	"core" : {
+		"active" : true,
+		"checksum" : "5f67cf0d",
+		"name" : "Original game files",
+		"validated" : true
+	}
+}

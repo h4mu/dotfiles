@@ -1,0 +1,21 @@
+{
+	"general" : {
+		"gameDataLanguage" : "hungarian",
+		"language" : "hungarian",
+		"lastSave" : "Saves\/1",
+		"music" : 88,
+		"sound" : 88
+	},
+	"launcher" : {
+		"setupCompleted" : true
+	},
+	"video" : {
+		"fullscreen" : true,
+		"realFullscreen" : true,
+		"resolution" : {
+			"height" : 1080,
+			"scaling" : 100,
+			"width" : 1920
+		}
+	}
+}

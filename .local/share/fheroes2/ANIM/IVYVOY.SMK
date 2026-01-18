@@ -1,0 +1,1 @@
+/media/h4mu/3A820A93820A5433/Program Files (x86)/Ubisoft/Heroes of Might and Magic 2 Gold/DATA/IVYVOY.SMK
